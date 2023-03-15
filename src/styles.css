@@ -1,0 +1,12 @@
+.column {
+  width: 49%;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.border {
+  width: max-content;
+  border: 1px solid black;
+  margin: 5px;
+}
